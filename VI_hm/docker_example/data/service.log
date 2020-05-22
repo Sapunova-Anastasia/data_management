@@ -1,0 +1,157 @@
+2020-05-17 13:00:52,447 | INFO     | service.py               :75   | Загружаем обученные модели
+2020-05-17 13:00:52,537 | INFO     | service.py               :78   | Модель для сжатия данных загружена: TSNE(angle=0.5, early_exaggeration=4.0, init='random', learning_rate=1000.0,
+   method='barnes_hut', metric='euclidean', min_grad_norm=1e-07,
+   n_components=2, n_iter=1000, n_iter_without_progress=30,
+   perplexity=30.0, random_state=None, verbose=0)
+2020-05-17 13:00:52,538 | INFO     | service.py               :82   | Модель загружена: DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=1,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_split=1e-07, min_samples_leaf=1,
+            min_samples_split=2, min_weight_fraction_leaf=0.0,
+            presort=False, random_state=42, splitter='best')
+2020-05-17 13:07:52,440 | INFO     | service.py               :75   | Загружаем обученные модели
+2020-05-17 13:07:52,588 | INFO     | service.py               :78   | Модель для сжатия данных загружена: TSNE(angle=0.5, early_exaggeration=4.0, init='random', learning_rate=1000.0,
+   method='barnes_hut', metric='euclidean', min_grad_norm=1e-07,
+   n_components=2, n_iter=1000, n_iter_without_progress=30,
+   perplexity=30.0, random_state=None, verbose=0)
+2020-05-17 13:07:52,589 | INFO     | service.py               :82   | Модель загружена: DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=1,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_split=1e-07, min_samples_leaf=1,
+            min_samples_split=2, min_weight_fraction_leaf=0.0,
+            presort=False, random_state=42, splitter='best')
+2020-05-17 13:08:41,882 | INFO     | service.py               :60   | predicted_class 0
+2020-05-17 13:16:01,365 | INFO     | service.py               :75   | Загружаем обученные модели
+2020-05-17 13:16:01,430 | INFO     | service.py               :78   | Модель для сжатия данных загружена: TSNE(angle=0.5, early_exaggeration=4.0, init='random', learning_rate=1000.0,
+   method='barnes_hut', metric='euclidean', min_grad_norm=1e-07,
+   n_components=2, n_iter=1000, n_iter_without_progress=30,
+   perplexity=30.0, random_state=None, verbose=0)
+2020-05-17 13:16:01,431 | INFO     | service.py               :82   | Модель загружена: DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=1,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_split=1e-07, min_samples_leaf=1,
+            min_samples_split=2, min_weight_fraction_leaf=0.0,
+            presort=False, random_state=42, splitter='best')
+2020-05-17 13:17:11,343 | INFO     | service.py               :60   | predicted_class 2
+2020-05-17 13:18:33,788 | INFO     | service.py               :60   | predicted_class 2
+2020-05-17 13:35:13,742 | INFO     | service.py               :75   | Загружаем обученные модели
+2020-05-17 13:35:15,287 | INFO     | service.py               :78   | Модель для сжатия данных загружена: TSNE(angle=0.5, early_exaggeration=4.0, init='random', learning_rate=1000.0,
+   method='barnes_hut', metric='euclidean', min_grad_norm=1e-07,
+   n_components=2, n_iter=1000, n_iter_without_progress=30,
+   perplexity=30.0, random_state=None, verbose=0)
+2020-05-17 13:35:15,288 | INFO     | service.py               :82   | Модель загружена: DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=1,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_split=1e-07, min_samples_leaf=1,
+            min_samples_split=2, min_weight_fraction_leaf=0.0,
+            presort=False, random_state=42, splitter='best')
+2020-05-17 13:35:29,470 | INFO     | service.py               :60   | predicted_class 0
+2020-05-17 13:47:19,343 | INFO     | service.py               :76   | Загружаем обученные модели
+2020-05-17 13:47:19,459 | INFO     | service.py               :79   | Модель для сжатия данных загружена: TSNE(angle=0.5, early_exaggeration=4.0, init='random', learning_rate=1000.0,
+   method='barnes_hut', metric='euclidean', min_grad_norm=1e-07,
+   n_components=2, n_iter=1000, n_iter_without_progress=30,
+   perplexity=30.0, random_state=None, verbose=0)
+2020-05-17 13:47:19,460 | INFO     | service.py               :83   | Модель загружена: DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=1,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_split=1e-07, min_samples_leaf=1,
+            min_samples_split=2, min_weight_fraction_leaf=0.0,
+            presort=False, random_state=42, splitter='best')
+2020-05-17 13:49:33,460 | INFO     | service.py               :61   | predicted_class 2
+2020-05-17 14:07:29,891 | INFO     | service.py               :90   | Загружаем обученные модели
+2020-05-17 14:07:31,595 | INFO     | service.py               :93   | Модель для сжатия данных загружена: TSNE(angle=0.5, early_exaggeration=4.0, init='random', learning_rate=1000.0,
+   method='barnes_hut', metric='euclidean', min_grad_norm=1e-07,
+   n_components=2, n_iter=1000, n_iter_without_progress=30,
+   perplexity=30.0, random_state=None, verbose=0)
+2020-05-17 14:07:31,664 | INFO     | service.py               :97   | Модель загружена: DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=1,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_split=1e-07, min_samples_leaf=1,
+            min_samples_split=2, min_weight_fraction_leaf=0.0,
+            presort=False, random_state=42, splitter='best')
+2020-05-17 14:12:59,965 | INFO     | service.py               :91   | Загружаем обученные модели
+2020-05-17 14:13:00,035 | INFO     | service.py               :94   | Модель для сжатия данных загружена: TSNE(angle=0.5, early_exaggeration=4.0, init='random', learning_rate=1000.0,
+   method='barnes_hut', metric='euclidean', min_grad_norm=1e-07,
+   n_components=2, n_iter=1000, n_iter_without_progress=30,
+   perplexity=30.0, random_state=None, verbose=0)
+2020-05-17 14:13:00,036 | INFO     | service.py               :98   | Модель загружена: DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=1,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_split=1e-07, min_samples_leaf=1,
+            min_samples_split=2, min_weight_fraction_leaf=0.0,
+            presort=False, random_state=42, splitter='best')
+2020-05-17 14:13:46,288 | INFO     | service.py               :32   | logged into parse_params
+2020-05-17 14:14:20,764 | INFO     | service.py               :32   | logged into parse_params
+2020-05-17 14:19:06,119 | INFO     | service.py               :93   | Загружаем обученные модели
+2020-05-17 14:19:06,303 | INFO     | service.py               :96   | Модель для сжатия данных загружена: TSNE(angle=0.5, early_exaggeration=4.0, init='random', learning_rate=1000.0,
+   method='barnes_hut', metric='euclidean', min_grad_norm=1e-07,
+   n_components=2, n_iter=1000, n_iter_without_progress=30,
+   perplexity=30.0, random_state=None, verbose=0)
+2020-05-17 14:19:06,304 | INFO     | service.py               :100  | Модель загружена: DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=1,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_split=1e-07, min_samples_leaf=1,
+            min_samples_split=2, min_weight_fraction_leaf=0.0,
+            presort=False, random_state=42, splitter='best')
+2020-05-17 14:19:21,590 | INFO     | service.py               :32   | logged into parse_params
+2020-05-17 14:19:21,601 | INFO     | service.py               :59   | Количество элементов: 6
+2020-05-17 14:34:58,780 | INFO     | service.py               :94   | Загружаем обученные модели
+2020-05-17 14:34:58,843 | INFO     | service.py               :97   | Модель для сжатия данных загружена: TSNE(angle=0.5, early_exaggeration=4.0, init='random', learning_rate=1000.0,
+   method='barnes_hut', metric='euclidean', min_grad_norm=1e-07,
+   n_components=2, n_iter=1000, n_iter_without_progress=30,
+   perplexity=30.0, random_state=None, verbose=0)
+2020-05-17 14:34:58,843 | INFO     | service.py               :101  | Модель загружена: DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=1,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_split=1e-07, min_samples_leaf=1,
+            min_samples_split=2, min_weight_fraction_leaf=0.0,
+            presort=False, random_state=42, splitter='best')
+2020-05-17 14:35:39,108 | INFO     | service.py               :32   | logged into parse_params
+2020-05-17 14:35:39,108 | INFO     | service.py               :59   | Количество элементов: 3
+2020-05-17 14:35:39,109 | INFO     | service.py               :69   | here 2
+2020-05-17 14:35:39,277 | INFO     | service.py               :79   | predicted_class 0
+2020-05-17 14:43:57,264 | INFO     | service.py               :94   | Загружаем обученные модели
+2020-05-17 14:43:57,412 | INFO     | service.py               :97   | Модель для сжатия данных загружена: TSNE(angle=0.5, early_exaggeration=4.0, init='random', learning_rate=1000.0,
+   method='barnes_hut', metric='euclidean', min_grad_norm=1e-07,
+   n_components=2, n_iter=1000, n_iter_without_progress=30,
+   perplexity=30.0, random_state=None, verbose=0)
+2020-05-17 14:43:57,417 | INFO     | service.py               :101  | Модель загружена: DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=1,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_split=1e-07, min_samples_leaf=1,
+            min_samples_split=2, min_weight_fraction_leaf=0.0,
+            presort=False, random_state=42, splitter='best')
+2020-05-17 14:53:45,003 | INFO     | service.py               :94   | Загружаем обученные модели
+2020-05-17 14:53:45,090 | INFO     | service.py               :97   | Модель для сжатия данных загружена: TSNE(angle=0.5, early_exaggeration=4.0, init='random', learning_rate=1000.0,
+   method='barnes_hut', metric='euclidean', min_grad_norm=1e-07,
+   n_components=2, n_iter=1000, n_iter_without_progress=30,
+   perplexity=30.0, random_state=None, verbose=0)
+2020-05-17 14:53:45,091 | INFO     | service.py               :101  | Модель загружена: DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=1,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_split=1e-07, min_samples_leaf=1,
+            min_samples_split=2, min_weight_fraction_leaf=0.0,
+            presort=False, random_state=42, splitter='best')
+2020-05-17 14:54:06,926 | INFO     | service.py               :32   | logged into parse_params
+2020-05-17 14:54:06,926 | INFO     | service.py               :59   | Количество элементов: 1
+2020-05-17 14:54:06,927 | INFO     | service.py               :69   | here 2
+2020-05-17 14:54:07,038 | INFO     | service.py               :79   | predicted_class 0
+2020-05-17 14:54:22,222 | INFO     | service.py               :32   | logged into parse_params
+2020-05-17 14:54:22,222 | INFO     | service.py               :59   | Количество элементов: 1
+2020-05-17 14:54:22,222 | INFO     | service.py               :69   | here 2
+2020-05-17 14:54:22,260 | INFO     | service.py               :79   | predicted_class 0
+2020-05-17 14:59:23,873 | INFO     | service.py               :32   | logged into parse_params
+2020-05-17 14:59:23,873 | INFO     | service.py               :59   | Количество элементов: 2
+2020-05-17 14:59:23,873 | INFO     | service.py               :61   | here 1
+2020-05-17 14:59:23,906 | INFO     | service.py               :79   | predicted_class 0
+2020-05-17 15:00:27,193 | INFO     | service.py               :32   | logged into parse_params
+2020-05-17 15:00:27,193 | INFO     | service.py               :59   | Количество элементов: 3
+2020-05-17 15:00:27,193 | INFO     | service.py               :61   | here 1
+2020-05-17 15:00:27,226 | INFO     | service.py               :79   | predicted_class 0
+2020-05-17 15:10:49,362 | INFO     | service.py               :90   | Загружаем обученные модели
+2020-05-17 15:10:49,450 | INFO     | service.py               :93   | Модель для сжатия данных загружена: TSNE(angle=0.5, early_exaggeration=4.0, init='random', learning_rate=1000.0,
+   method='barnes_hut', metric='euclidean', min_grad_norm=1e-07,
+   n_components=2, n_iter=1000, n_iter_without_progress=30,
+   perplexity=30.0, random_state=None, verbose=0)
+2020-05-17 15:10:49,451 | INFO     | service.py               :97   | Модель загружена: DecisionTreeClassifier(class_weight=None, criterion='gini', max_depth=1,
+            max_features=None, max_leaf_nodes=None,
+            min_impurity_split=1e-07, min_samples_leaf=1,
+            min_samples_split=2, min_weight_fraction_leaf=0.0,
+            presort=False, random_state=42, splitter='best')
+2020-05-17 15:11:36,557 | INFO     | service.py               :75   | predicted_class 0
+2020-05-17 15:11:43,379 | INFO     | service.py               :75   | predicted_class 0
+2020-05-17 15:12:59,219 | INFO     | service.py               :75   | predicted_class 0
+2020-05-17 17:16:31,413 | INFO     | service.py               :90   | Загружаем обученные модели
+2020-05-17 17:16:31,440 | INFO     | service.py               :93   | Модель для сжатия данных загружена: TSNE()
+2020-05-17 17:16:31,441 | INFO     | service.py               :97   | Модель загружена: DecisionTreeClassifier(max_depth=1, random_state=42)
+2020-05-17 17:17:01,468 | INFO     | service.py               :75   | predicted_class 0
+2020-05-17 17:17:17,807 | INFO     | service.py               :75   | predicted_class 2
